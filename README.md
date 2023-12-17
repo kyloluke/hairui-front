@@ -1,3 +1,15 @@
+# 
+ data-src="imag/path/string"
+ src="base64"
+ class="lazy"
+
+ 不生效！！！
+
+
+ # 
+ css 样式中的url方法如何在组件中使用？ 目前是报错的
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
